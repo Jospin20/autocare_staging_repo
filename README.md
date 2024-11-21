@@ -1,5 +1,5 @@
 # autocare_staging_repo
-this is a staging repo that was used as requested for my scope
+this is a staging repo that was used for the pull request for my scope
 i dealt with creating tables for the garage
 the queries are here below:
 -- Customers Table
